@@ -1,0 +1,16 @@
+Package: vn.vhn.ios.tweak.mbbank-jbbypass
+Version: 0.0.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: vh
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: debs/vn.vhn.ios.tweak.mbbank-jbbypass_0.0.2-3+debug_iphoneos-arm.deb
+Size: 10404
+MD5sum: 7037f373852717d366a249c4357856ac
+SHA1: 1d97df5eb60f1abb5c2ee0756b87ac0decde06b7
+SHA256: e7767099924610be3bdbbf826de8c483965b0fa77593166d43a6988bd5ca21dc
+Section: Tweaks
+Description: Bypass JBProtection of MBBank
+Author: vh
+Name: MBBankJBBypass
+
