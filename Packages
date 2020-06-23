@@ -1,16 +1,16 @@
-Package: vn.vhn.ios.tweak.mbbank-jbbypass
-Version: 0.0.2-3+debug
+Package: com.droomone.tabblocker
+Version: 1.2-36+debug
 Architecture: iphoneos-arm
-Maintainer: vh
-Installed-Size: 208
-Depends: mobilesubstrate
-Filename: debs/vn.vhn.ios.tweak.mbbank-jbbypass_0.0.2-3+debug_iphoneos-arm.deb
-Size: 10404
-MD5sum: 7037f373852717d366a249c4357856ac
-SHA1: 1d97df5eb60f1abb5c2ee0756b87ac0decde06b7
-SHA256: e7767099924610be3bdbbf826de8c483965b0fa77593166d43a6988bd5ca21dc
+Maintainer: DroomOne
+Installed-Size: 396
+Depends: mobilesubstrate, ws.hbang.common
+Filename: debs/com.droomone.tabblocker_1.2-36+debug_iphoneos-arm.deb
+Size: 56046
+MD5sum: f839160c89d36904edb3fa453e143c51
+SHA1: 42374e1e79d0c4278131ff43c49dc5e777a02e8a
+SHA256: b11910daeacba924866ad6ba67f79bb8cd89e5da36cb4f5b4963aad00d9716b6
 Section: Tweaks
-Description: Bypass JBProtection of MBBank
-Author: vh
-Name: MBBankJBBypass
+Description: Blocking new advertisement tabs & more
+Author: DroomOne
+Name: TabBlocker
 
