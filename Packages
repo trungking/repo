@@ -10,7 +10,7 @@ MD5sum: f839160c89d36904edb3fa453e143c51
 SHA1: 42374e1e79d0c4278131ff43c49dc5e777a02e8a
 SHA256: b11910daeacba924866ad6ba67f79bb8cd89e5da36cb4f5b4963aad00d9716b6
 Section: Tweaks
-Description: Blocking new advertisement tabs & more. Update for ios 13
-Author: DroomOne
+Description: Blocking new advertisement tabs & more. Update for ios 13 by KingPuffdaddi
+Author: DroomOne + KingPuffdaddi
 Name: TabBlocker
 
