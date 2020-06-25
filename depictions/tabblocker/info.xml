@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>Silo</package>
+        <package>ws.hbang.common</package>
 	</dependencies>
 	<descriptionlist>
 		<description>
