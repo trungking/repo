@@ -1,4 +1,4 @@
-Package: com.droomone.tabblocker
+Package: com.droomone.tabblocker13
 Version: 1.2-37
 Architecture: iphoneos-arm
 Maintainer: DroomOne
@@ -12,5 +12,5 @@ SHA256: 8926d727e2216b3a5d29be5b6f733f5b78c70b306e0945371568a4c2b176d8ae
 Section: Tweaks
 Description: Blocking new advertisement tabs & more. Update for ios 13 by KingPuffdaddi
 Author: DroomOne + KingPuffdaddi
-Name: TabBlocker
+Name: TabBlocker13
 
