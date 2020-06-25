@@ -1,0 +1,38 @@
+<package>
+	<id>com.droomone.tabblocker13</id>
+	<name>Tabblocker13</name>
+	<version>1.2-37</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Silo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+		Compatible with iOS 11 - 13
+
+TabBlocker is able to block the opening of new tabs for specified websites.
+
+Allot of times when I try to watch a video, or open certain webpages that contain allot of ads. I get redirected to a new tab almost directly. TabBlocker will ask you if the webpage is allowed to open new tabs, or just block them! In the settings you will find:
+- White-listed domains
+- Black-listed domains
+- Black-listed Url's
+
+[Features]
+- Configurable in settings
+- Block any new tab by specifying source URL
+- Multiple URL can be split by ;
+- Will bypass any anti-adblocker script! (no website is able to block this method)
+- Configurable option to disable new tab animations
+
+Tested on iOS 11 - 13
+</description>
+	</descriptionlist>
+	<changelog>
+		<change>Updated for ios 13.</change>
+	</changelog>
+</package>
