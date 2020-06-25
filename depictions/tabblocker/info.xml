@@ -13,6 +13,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description>
+		<![CDATA[
 		Compatible with iOS 11 - 13
 
 TabBlocker is able to block the opening of new tabs for specified websites.
@@ -21,7 +22,7 @@ Allot of times when I try to watch a video, or open certain webpages that contai
 - White-listed domains
 - Black-listed domains
 - Black-listed Url's
-
+]]>
 [Features]
 - Configurable in settings
 - Block any new tab by specifying source URL
