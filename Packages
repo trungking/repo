@@ -1,14 +1,14 @@
 Package: com.droomone.tabblocker
-Version: 1.2-37+debug+ios13
+Version: 1.2-37
 Architecture: iphoneos-arm
 Maintainer: DroomOne
 Installed-Size: 396
 Depends: mobilesubstrate, ws.hbang.common
-Filename: debs/com.droomone.tabblocker_1.2-36+debug_iphoneos-arm.deb
-Size: 56046
-MD5sum: f839160c89d36904edb3fa453e143c51
-SHA1: 42374e1e79d0c4278131ff43c49dc5e777a02e8a
-SHA256: b11910daeacba924866ad6ba67f79bb8cd89e5da36cb4f5b4963aad00d9716b6
+Filename: debs/com.droomone.tabblocker_1.2-37_iphoneos-arm.deb
+Size: 55868
+MD5sum: cd113db21101c6cb6a85f820163f7bf2
+SHA1: 4bc3c007207f4673fa283ac16d059db6fedd2b82
+SHA256: 8926d727e2216b3a5d29be5b6f733f5b78c70b306e0945371568a4c2b176d8ae
 Section: Tweaks
 Description: Blocking new advertisement tabs & more. Update for ios 13 by KingPuffdaddi
 Author: DroomOne + KingPuffdaddi
